@@ -49,3 +49,55 @@ Navigate to *Mods* in the left panel. At the bottom is should say "Drop Files"
 ![image](https://user-images.githubusercontent.com/119359414/204378511-21c0bb53-1569-44a2-88f7-6e6b4312e2eb.png)
 
 Drag and drop all your zip files here, they should all be automatically installed. 
+
+The current mod list is:
+
+Skyrim Together Reborn [has personal set up doc in folder]
+
+Immersive Sounds
+
+Enhanced Lights and FX
+
+SMIM SE
+
+CBBE
+
+BodySlide
+
+Skyland 1K
+
+Rustic Clothing 4K
+
+Complete Alchemy and Cooking Overhaul [and steam update]
+
+A Quality World Map [Paper]
+
+KS Hairdos
+
+Obsidian Weathers
+
+Improved Eyes
+
+RaceMenu
+
+Ordinator
+
+moreHUD - Inventory Edition
+
+Character Creation Overhaul
+
+Paarthurnax Dilemma
+
+JK’s Skyrim All in One
+
+Dear Diary
+
+SkyUI
+
+Address Library
+
+Immersive Weapons
+
+Immersive Armors
+
+SKSE [Anniversary Edition Build]
